@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
  
- ### Link do projeto 🔗 
+ ### Link do projeto 🔗
+ <a href="https://26tassiofernandes.github.io/TelaNetflix/netflix.html" rel="external" >Trocador de Cores</a>
 
 
 </div>
