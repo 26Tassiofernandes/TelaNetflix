@@ -17,6 +17,15 @@ img {
     width: 200px;
 }
 
+
+#entrar {
+    background-color: #E50914;
+    color: white;
+    height: 40px;
+    width: 250px;
+    
+}
+
 input {
     background-color: #2E2E2E;
     border-style: hidden;
@@ -24,16 +33,6 @@ input {
     height: 30px;
     width: 250px;
     color: white;
-    
-
-}
-
-#entrar {
-    background-color: #E50914;
-    color: white;
-    height: 40px;
-    width: 260px;
-    
     
 }
 
@@ -74,8 +73,18 @@ div {
     width: 15px;
     margin-left: -20px;
     margin-right: 5px;
+    
 }
 
-#entrar:hover, #senha:hover, #email:hover {
+#entrar:hover {
+    transition-duration: 0.3s;
     transform: scale(1.04);
+    box-shadow: 1px 1px 10px 1px #E50914;
+    
+}
+
+#senha:hover, #email:hover {
+    transform: scale(1.04);
+    transition-duration: 0.3s;
+    
 }
