@@ -21,6 +21,7 @@ img {
 #entrar {
     background-color: #E50914;
     color: white;
+    font-weight: bold;
     height: 40px;
     width: 250px;
     
@@ -79,7 +80,7 @@ div {
 #entrar:hover {
     transition-duration: 0.3s;
     transform: scale(1.04);
-    box-shadow: 1px 1px 10px 1px #E50914;
+    box-shadow: 1px 1px 10px 1px #e5091485;
     
 }
 
@@ -87,4 +88,5 @@ div {
     transform: scale(1.04);
     transition-duration: 0.3s;
     
+
 }
